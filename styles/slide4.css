@@ -1,0 +1,16 @@
+.s4-grid-container {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px;
+  /* grid-auto-rows: minmax(100px, auto); */
+}
+
+.s4-one {
+  grid-row: 1 / 2;
+}
+
+.s4-two {
+  grid-row: 2 / 3;
+}
