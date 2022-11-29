@@ -49,7 +49,6 @@
 
 .slides::-webkit-scrollbar-thumb {
   background: transparent;
-  /* border-radius: 10px; */
 }
 .slides::-webkit-scrollbar-track {
   background: transparent;

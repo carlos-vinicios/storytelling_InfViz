@@ -21,3 +21,8 @@
   grid-column: 2 / 3;
   grid-row: 2 / 3;
 }
+
+#work {
+  width:400px; /* you can use % */
+  height: auto;
+}
