@@ -20,6 +20,10 @@
   margin: auto;
 }
 
+.text-area h1{
+  font-size: 28px;
+}
+
 .chart-area {
   width: 100%;
   margin: auto auto;
